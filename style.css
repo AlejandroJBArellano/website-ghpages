@@ -1,3 +1,10 @@
-
+body {
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+body h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
 
 /*# sourceMappingURL=style.css.map */
